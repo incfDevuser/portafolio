@@ -3,7 +3,7 @@ import { useTranslation } from "react-i18next";
 import JavaScript from "../tecnologias/JavaScript";
 import Nodejs from "../tecnologias/Nodejs";
 import Expressjs from "../tecnologias/Expressjs";
-import MongoDB from "../tecnologias/Mongodb";
+import MongoDB from "../tecnologias/MongoDB";
 import TypeScript from "../tecnologias/Typescript";
 import PostgreSQL from "../tecnologias/PostgreSQL";
 import ReactTech from "../tecnologias/React";
