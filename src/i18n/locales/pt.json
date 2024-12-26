@@ -1,0 +1,94 @@
+{
+  "hero": {
+    "greeting": "Oi, eu sou Martin Gomez 👋🏼",
+    "description": "Engenheiro de Software especializado em criar",
+    "web": "Aplicações Web",
+    "mobile": "Aplicações Móveis",
+    "and": "e",
+    "pwa": "Aplicações Web Progressivas",
+    "solutions": "soluções"
+  },
+  "about": {
+    "title": "Sobre Mim",
+    "passion": "Sou apaixonado por tecnologia e criar aplicativos que resolvem problemas reais.",
+    "focus": "Estou me especializando em arquitetura de software e aprimorando minhas habilidades interpessoais",
+    "impact": "para liderar equipes e entregar projetos impactantes",
+    "journey": "Minha jornada como desenvolvedor tem sido movida pela curiosidade e pelo desejo de criar soluções significativas. Eu prospero na interseção entre criatividade e lógica, transformando ideias em aplicativos funcionais e elegantes."
+  },
+  "contact": {
+    "title": "Contato",
+    "subtitle": "Entre em Contato",
+    "description": "Explore a barra de navegação acima—meus links de mídia social estão a apenas um clique! Conecte-se comigo no",
+    "github": "GitHub",
+    "linkedin": "LinkedIn"
+  },
+  "stack": {
+    "title": "Tecnologias",
+    "description": "Estes são os idiomas, frameworks e ferramentas que utilizo para desenvolver meus projetos"
+  },
+  "projects": {
+    "title": "Meus Projetos",
+    "subtitle": "Projetos Destaques",
+    "description": "Explore os projetos que desenvolvi, transformando ideias em soluções funcionais por meio de tecnologia e design.",
+    "1": {
+      "nombre": "Fukusuke Sushi App",
+      "descripcion": "É uma aplicação web e PWA projetada para uma cadeia de sushi, com o objetivo de otimizar e modernizar suas operações. A plataforma inclui um menu digital interativo para melhorar a experiência do cliente, juntamente com um avançado sistema de gerenciamento de pedidos e entregas acessível de dispositivos móveis e web. Esta solução não só melhora a eficiência operacional, mas também oferece uma experiência mais suave e conveniente para os usuários."
+    },
+    "2": {
+      "nombre": "Loja de Camisas de Futebol",
+      "descripcion": "É uma plataforma de comércio eletrônico projetada para a venda de camisas de futebol, voltada para oferecer uma experiência de compra perfeita tanto para vendedores quanto para clientes. A plataforma permite que os vendedores criem categorias, gerenciem produtos e rastreiem pedidos de maneira eficiente. Os clientes podem explorar o catálogo, comprar suas camisas favoritas e salvar itens na lista de favoritos. Esta solução agiliza o processo de vendas para os vendedores, enquanto oferece uma experiência amigável e envolvente para os clientes."
+    },
+    "card": {
+      "goToProject": "Ir para o Projeto"
+    }
+  },
+  "experienceEducation": {
+    "sectionTitle": "Experiência e Educação",
+    "sectionDescription": "Aqui deixo um pequeno resumo da minha experiência profissional e também dos meus estudos universitários, cursos e certificações.",
+    "experienceTitle": "Experiência",
+    "educationTitle": "Educação",
+    "certificationsTitle": "Certificações",
+    "experiences": [
+      {
+        "id": 1,
+        "title": "Desenvolvedor de Software",
+        "company": "WiseTrack",
+        "location": "Providência, Santiago",
+        "date": "Abril 2024 - Julho 2024",
+        "description": "Na WiseTrack, fiz meu estágio como desenvolvedor de software. Minhas principais funções foram projetar e desenvolver APIs para a integração de fabricantes de veículos como Volvo Trucks, Volvo Cars e Scania Fleet Management. Também implementei processos ETL para gerenciar e processar dados fornecidos pelos fabricantes.",
+        "stack": ["Node.js", "Express", "PostgreSQL", "React", "Python", "API Rest"]
+      }
+    ],
+    "educations": [
+      {
+        "id": 1,
+        "nombre": "Universidade Nacional Andrés Bello",
+        "carrer": "Engenharia Civil Informática",
+        "date": "2022 - 2027",
+        "img": "path/to/unabLogo.png"
+      },
+      {
+        "id": 2,
+        "nombre": "Academia Desafio Latam",
+        "carrer": "Desenvolvedor Full Stack",
+        "date": "2023 - 2024",
+        "img": "path/to/desafioLatamLogo.jpg"
+      }
+    ],
+    "certifications": [
+      {
+        "id": 1,
+        "nombre": "Introdução ao Desenvolvimento Web",
+        "date": "09/11/2023",
+        "institution": "Academia Desafio Latam",
+        "img": "path/to/desafioLatamLogo.jpg"
+      }
+    ]
+  },
+
+    "experience": {
+      "at": "em",
+      "technologiesUsed": "Tecnologias Usadas:"
+    }
+
+}

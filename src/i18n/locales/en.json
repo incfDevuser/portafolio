@@ -1,0 +1,92 @@
+{
+  "hero": {
+    "greeting": "Hi, I'm Martin Gomez 👋🏼",
+    "description": "Software Engineer specializing in creating",
+    "web": "Web",
+    "mobile": "Mobile",
+    "and": "and",
+    "pwa": "Progressive Web App",
+    "solutions": "solutions"
+  },
+  "about": {
+    "title": "About Me",
+    "passion": "I am passionate about technology and building applications that solve real-world problems.",
+    "focus": "I’m specializing in software architecture and enhancing my soft skills",
+    "impact": "to lead teams and deliver impactful projects",
+    "journey": "My journey as a developer has been fueled by curiosity and a drive to create meaningful solutions. I thrive at the intersection of creativity and logic, transforming ideas into functional, elegant applications."
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Get in Touch",
+    "description": "Feel free to explore the navigation bar above—my social media links are just a click away! Connect with me on",
+    "github": "GitHub",
+    "linkedin": "LinkedIn"
+  },
+  "stack": {
+    "title": "Technologies",
+    "description": "These are the languages, frameworks, and tools I use to develop my projects"
+  },
+  "projects": {
+    "title": "My Projects",
+    "subtitle": "Featured Projects",
+    "description": "Explore the projects I’ve developed, turning ideas into functional solutions through technology and design.",
+    "1": {
+      "nombre": "Fukusuke Sushi App",
+      "descripcion": "It is a web application and PWA designed for a sushi chain, aimed at optimizing and modernizing its operations. The platform features an interactive digital menu to enhance the customer experience, along with an advanced order and delivery management system accessible from both mobile and web devices. This solution not only improves operational efficiency but also provides a smoother and more convenient experience for users."
+    },
+    "2": {
+      "nombre": "Football T-Shirt Store",
+      "descripcion": "It is a web e-commerce platform designed for selling football jerseys, tailored to provide a seamless shopping experience for both sellers and customers. The platform allows sellers to create categories, manage products, and track orders efficiently. Customers can explore the catalog, purchase their favorite jerseys, and save items to their favorites list. This solution streamlines the sales process for sellers while offering a user-friendly and engaging experience for customers."
+    },
+    "card": {
+      "goToProject": "Go To Project"
+    }
+  },
+  "experienceEducation": {
+    "sectionTitle": "Experience & Education",
+    "sectionDescription": "Here I leave you a small summary of my work experience and also of my university studies, courses, and certifications.",
+    "experienceTitle": "Experience",
+    "educationTitle": "Education",
+    "certificationsTitle": "Certifications",
+    "experiences": [
+      {
+        "id": 1,
+        "title": "Software developer",
+        "company": "WiseTrack",
+        "location": "Providencia, Santiago",
+        "date": "April 2024 - July 2024",
+        "description": "At WiseTrack I did my internship as a software developer, my main functions were under the innovation department, which consisted of designing and developing APIs for the integration of vehicle manufacturers such as Volvo Trucks, Volvo Cars and Scania Fleet Management. Also implement ETL processes to manage and process data provided by manufacturers.",
+        "stack": ["Node.js", "Express", "PostgreSQL", "React", "Python", "API Rest"]
+      }
+    ],
+    "educations": [
+      {
+        "id": 1,
+        "nombre": "Universidad Nacional Andres Bello",
+        "carrer": "Ingenieria Civil Informatica",
+        "date": "2022 - 2027",
+        "img": "path/to/unabLogo.png"
+      },
+      {
+        "id": 2,
+        "nombre": "Academia Desafio Latam",
+        "carrer": "Full Stack Developer",
+        "date": "2023 - 2024",
+        "img": "path/to/desafioLatamLogo.jpg"
+      }
+    ],
+    "certifications": [
+      {
+        "id": 1,
+        "nombre": "Introducción al desarrollo web",
+        "date": "09/11/2023",
+        "institution": "Academia Desafio Latam",
+        "img": "path/to/desafioLatamLogo.jpg"
+      }
+    ]
+  },
+    "experience": {
+      "at": "at",
+      "technologiesUsed": "Technologies Used:"
+    }
+}
