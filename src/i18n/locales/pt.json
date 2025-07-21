@@ -57,6 +57,35 @@
         "date": "Abril 2024 - Julho 2024",
         "description": "Na WiseTrack, fiz meu estágio como desenvolvedor de software. Minhas principais funções foram projetar e desenvolver APIs para a integração de fabricantes de veículos como Volvo Trucks, Volvo Cars e Scania Fleet Management. Também implementei processos ETL para gerenciar e processar dados fornecidos pelos fabricantes.",
         "stack": ["Node.js", "Express", "PostgreSQL", "React", "Python", "API Rest"]
+      },
+      {
+        "id": 2,
+        "title": "Engenheiro FullStack",
+        "company": "Pidway Soluciones y Servicios",
+        "location": "Remoto",
+        "date": "Setembro 2024 - Outubro 2024",
+        "description": "Projeto logístico para empresa de salmão: Desenvolvimento de uma aplicação web + PWA para gestão e coordenação de pessoal utilizando o stack PERN (PostgreSQL, Express, React e Node.js). Design e gestão de bancos de dados em PostgreSQL, garantindo integridade e desempenho das informações. Implementação de autenticação segura com Google OAuth e integração de APIs de terceiros (serviços de climatização e aviação).",
+        "stack": ["Node.js", "Express", "PostgreSQL", "React", "Google OAuth", "Integração de APIs", "PWA"],
+        "responsibilities": [
+          "Desenvolvimento de uma aplicação web + PWA para gestão e coordenação de pessoal utilizando o stack PERN (PostgreSQL, Express, React e Node.js).",
+          "Design e gestão de bancos de dados em PostgreSQL, garantindo integridade e desempenho das informações.",
+          "Implementação de autenticação segura com Google OAuth e integração de APIs de terceiros (serviços de climatização e aviação)."
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Líder de Desenvolvimento",
+        "company": "Pidway Soluciones y Servicios",
+        "location": "Remoto",
+        "date": "Outubro 2024 - Atualidade",
+        "description": "Promovido a Líder de Desenvolvimento, responsável por dirigir e coordenar equipes em projetos estratégicos, incluindo Logística de Pessoas, Sistema de Rastreabilidade e implementação de IA para detecção de catarata em salmões. Realizei visitas a Puerto Montt para validar aplicações, gerenciei reuniões com clientes e gerentes, e levantei requisitos para alinhar soluções tecnológicas com as necessidades reais do negócio. Continuei desenvolvendo aplicações utilizando o stack PERN, desenhando mockups, diagramando bancos de dados e desenvolvendo tanto backend quanto frontend. Implementei autenticação com Google OAuth e integrei APIs de terceiros, fortalecendo a funcionalidade e segurança das soluções implementadas.",
+        "stack": ["Node.js", "Express", "PostgreSQL", "React", "Google OAuth", "Integração de APIs", "PWA", "IA"],
+        "responsibilities": [
+          "Gestão e liderança de projetos: Promovido a Líder de Desenvolvimento, responsável por dirigir e coordenar equipes em projetos estratégicos, incluindo Logística de Pessoas, Sistema de Rastreabilidade e implementação de IA para detecção de catarata em salmões.",
+          "Interação com clientes e levantamento de requisitos: Realizei visitas a Puerto Montt para validar aplicações, gerenciei reuniões com clientes e gerentes, e levantei requisitos para alinhar soluções tecnológicas com as necessidades reais do negócio.",
+          "Desenvolvimento FullStack e design de soluções: Continuei desenvolvendo aplicações utilizando o stack PERN, desenhando mockups, diagramando bancos de dados e desenvolvendo tanto backend quanto frontend.",
+          "Integração de serviços e segurança: Implementei autenticação com Google OAuth e integrei APIs de terceiros, fortalecendo a funcionalidade e segurança das soluções implementadas."
+        ]
       }
     ],
     "educations": [
