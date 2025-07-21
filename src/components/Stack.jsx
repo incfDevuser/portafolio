@@ -9,7 +9,10 @@ import PostgreSQL from "../tecnologias/PostgreSQL";
 import ReactTech from "../tecnologias/React";
 import TailwindCSS from "../tecnologias/TailwindCSS";
 import Python from "../tecnologias/Python";
-
+import Supabase from "../tecnologias/Supabase";
+import Expo from "../tecnologias/Expo";
+import Figma from "../tecnologias/Figma";
+import FastAPI from "../tecnologias/FastApi";
 const Stack = () => {
   const { t } = useTranslation();
 
@@ -28,10 +31,14 @@ const Stack = () => {
           <TypeScript />
           <Nodejs />
           <Expressjs />
+          <FastAPI />
           <MongoDB />
           <PostgreSQL />
+          <Supabase />
+          <Expo />
           <ReactTech />
           <TailwindCSS />
+          <Figma />
         </div>
       </div>
     </div>
