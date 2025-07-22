@@ -32,11 +32,27 @@
     "description": "Explore os projetos que desenvolvi, transformando ideias em soluções funcionais por meio de tecnologia e design.",
     "1": {
       "nombre": "Fukusuke Sushi App",
-      "descripcion": "É uma aplicação web e PWA projetada para uma cadeia de sushi, com o objetivo de otimizar e modernizar suas operações. A plataforma inclui um menu digital interativo para melhorar a experiência do cliente, juntamente com um avançado sistema de gerenciamento de pedidos e entregas acessível de dispositivos móveis e web. Esta solução não só melhora a eficiência operacional, mas também oferece uma experiência mais suave e conveniente para os usuários."
+      "descripcion": "Aplicativo web e PWA para uma cadeia de sushi, com menu digital interativo e gestão avançada de pedidos. Otimiza operações internas e melhora a experiência do cliente em qualquer dispositivo."
     },
     "2": {
       "nombre": "Loja de Camisas de Futebol",
-      "descripcion": "É uma plataforma de comércio eletrônico projetada para a venda de camisas de futebol, voltada para oferecer uma experiência de compra perfeita tanto para vendedores quanto para clientes. A plataforma permite que os vendedores criem categorias, gerenciem produtos e rastreiem pedidos de maneira eficiente. Os clientes podem explorar o catálogo, comprar suas camisas favoritas e salvar itens na lista de favoritos. Esta solução agiliza o processo de vendas para os vendedores, enquanto oferece uma experiência amigável e envolvente para os clientes."
+      "descripcion": "Plataforma de e-commerce para venda de camisas de futebol. Inclui gestão de produtos, categorias e pedidos para vendedores, e funcionalidades de favoritos para clientes."
+    },
+    "3": {
+      "nombre": "Divide",
+      "descripcion": "Aplicativo fintech colaborativo que permite dividir pagamentos em grupo, gerar comprovantes, ver status em tempo real e compartilhar links de pagamento entre amigos."
+    },
+    "4": {
+      "nombre": "Alartia",
+      "descripcion": "Aplicativo de segurança cidadã com alertas geolocalizados, comunidades públicas/privadas, detecção de spam com IA e agrupamento de zonas perigosas."
+    },
+    "5": {
+      "nombre": "ContainerTrack",
+      "descripcion": "Sistema web logístico para rastreamento de contêineres. Inclui geofencing, controle de transporte, painel administrativo e zonas primárias definidas com mapas."
+    },
+    "6": {
+      "nombre": "SoftCluVRP",
+      "descripcion": "Sistema de planejamento de rotas com múltiplos veículos e agrupamento suave (SoftCluVRP). Visualização de rotas ótimas, heurística própria e comparações com LKH."
     },
     "card": {
       "goToProject": "Ir para o Projeto"

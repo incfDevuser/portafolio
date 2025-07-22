@@ -32,11 +32,27 @@
     "description": "Explore the projects I’ve developed, turning ideas into functional solutions through technology and design.",
     "1": {
       "nombre": "Fukusuke Sushi App",
-      "descripcion": "It is a web application and PWA designed for a sushi chain, aimed at optimizing and modernizing its operations. The platform features an interactive digital menu to enhance the customer experience, along with an advanced order and delivery management system accessible from both mobile and web devices. This solution not only improves operational efficiency but also provides a smoother and more convenient experience for users."
+      "descripcion": "Web app and PWA for a sushi chain, featuring an interactive digital menu and advanced order management. Optimizes internal operations and enhances the customer experience from any device."
     },
     "2": {
       "nombre": "Football T-Shirt Store",
-      "descripcion": "It is a web e-commerce platform designed for selling football jerseys, tailored to provide a seamless shopping experience for both sellers and customers. The platform allows sellers to create categories, manage products, and track orders efficiently. Customers can explore the catalog, purchase their favorite jerseys, and save items to their favorites list. This solution streamlines the sales process for sellers while offering a user-friendly and engaging experience for customers."
+      "descripcion": "E-commerce platform for selling football jerseys. Includes product, category, and order management for sellers, and favorites functionality for customers."
+    },
+    "3": {
+      "nombre": "Divide",
+      "descripcion": "Collaborative fintech app that allows group payment splitting, generates receipts, shows real-time statuses, and lets friends share payment links."
+    },
+    "4": {
+      "nombre": "Alartia",
+      "descripcion": "Citizen security app with geolocated alerts, public/private communities, AI-powered spam detection, and dangerous zone clustering."
+    },
+    "5": {
+      "nombre": "ContainerTrack",
+      "descripcion": "Logistics web system for container tracking. Includes geofencing, transport control, admin panel, and primary zones defined with maps."
+    },
+    "6": {
+      "nombre": "SoftCluVRP",
+      "descripcion": "Route planning system with multiple vehicles and soft clustering (SoftCluVRP). Visualizes optimal routes, custom heuristics, and LKH comparisons."
     },
     "card": {
       "goToProject": "Go To Project"
